@@ -1,5 +1,9 @@
 # Documentation Index
 
+<div align="center">
+  <img src="logo.svg" alt="GitHub Projects Playground Logo" width="300">
+</div>
+
 Welcome to the GitHub Projects Playground documentation! This directory contains detailed guides and resources for using this playground effectively.
 
 ## Getting Started
