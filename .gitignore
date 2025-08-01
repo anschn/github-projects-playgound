@@ -1,2 +1,4 @@
 node_modules 
-# I don't know what I can add here maybe you hav eany suggestions
+.DS_STORE
+.tmp
+npm-debug.log
