@@ -1,5 +1,6 @@
 # GitHub Projects Playground
 
+
 Welcome to the GitHub Projects Playground! This repository is designed as a testing and experimentation environment for GitHub Projects features.
 
 ## What is this playground for?
@@ -22,6 +23,7 @@ Comprehensive documentation is available in the [`docs/`](docs/) directory:
 
 ## 🤝 Contributing
 
+
 We welcome contributions of all kinds! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on:
 
 - How to report issues
@@ -41,6 +43,7 @@ We welcome contributions of all kinds! Please see our [Contributing Guidelines](
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+## Contributing
 
 *Happy experimenting! Feel free to break things, try new approaches, and learn by doing.* 🎉
+
